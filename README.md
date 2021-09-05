@@ -1,5 +1,5 @@
 # Malala-Tribute-Page
-A tribute page dedicated to Quincy Larson .
+A tribute page dedicated to MALALA YOUSAFZAI .
 
 This page is build using plain HTML and CSS.  There's no JavaScript involved. Below is a Screenshot of the page. 
 
