@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  padding: 0 ;
+  background-color: hsl(0, 0%, 0%);
+  font-family: 'Raleway', sans-serif;
+}
+
+.logo{
+  padding: 90px;
+  }
+
+header{
+background-image: url('portrait.jpg');
+background-repeat: no-repeat;
+background-position: center right;
+color: white;
+height: 400px;
+font-family: 'Courier New', Courier, monospace;
+font-size: 16px;
+text-align: center;
+margin: 100px;
+}
+
+header h1 {
+font-family: "Work Sans script=latin rev=2";
+font-size: 45px; 
+font-weight: 100;
+font-style: normal;
+text-transform: uppercase;
+letter-spacing: 4px;
+
+
+}
+
+header p{
+   font-family: Copperplate, Papyrus, fantasy;
+   font-size: 18px;
+}
+.container{
+margin: 50px;
+padding: 20px 30px;
+ background-color: #eadcfa;
+ overflow: auto;
+ align-self: center;
+ border-radius: 5px;
+}
+
+.box{ 
+  border-radius: 6px;
+  padding: 0 10px;
+  height: 350px;
+  align-self: center;
+  display:inline-block;
+justify-content: center;
+align-items: center;
+overflow: auto;
+}
+.box h3{
+font-size: 32px;
+font-family:Copperplate, Papyrus, fantasy;
+}
+.box p{
+font-size: 20px;
+}
+
+.character{
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+.life{
+background-color: #f1e4ff;
+}
+
+.attempt{
+background-color:#e4cdff ;
+}
+
+.edu{
+background-color:#d2adff;
+}
+
+a{
+color: #ffffff;
+font-family: 'Raleway', sans-serif;
+font-size: 13px;
+font-weight: 900;
+text-align: center;
+text-transform: uppercase;
+text-decoration: none;
+letter-spacing: 2px;
+}
+
+a:hover{
+background-color: rgba(255, 255, 255, 0.8);
+color: rgb(158, 116, 192);
+}
+
+footer p{
+text-align: center;
+color: rgb(255, 255, 255);
+}
+
+.author a{
+  font-size: 13px;
+font-weight:900;
+text-align: center;
+text-transform: none;
+text-decoration: none;
+letter-spacing: normal;
+}
