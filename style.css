@@ -3,6 +3,7 @@ body {
   padding: 0 ;
   background-color: hsl(0, 0%, 0%);
   font-family: 'Raleway', sans-serif;
+  text-align: justify;
 }
 
 .logo{
@@ -43,6 +44,8 @@ padding: 20px 30px;
  overflow: auto;
  align-self: center;
  border-radius: 5px;
+ word-spacing: 0.20em;
+ line-height: 1.3;
 }
 
 .box{ 
